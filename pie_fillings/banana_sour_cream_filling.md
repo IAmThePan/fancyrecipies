@@ -17,3 +17,4 @@ __Directions__
 1. Beat together all ingredients until well-blended.
 2. Pour into cooled pie crust.
 3. Chill at least 3 hours.
+4. Optionally top with sliced bananans before serving.
