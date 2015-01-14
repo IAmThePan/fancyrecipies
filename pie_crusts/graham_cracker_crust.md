@@ -5,7 +5,7 @@ __Ingredients__
 
 * 2 1/2 cups crushed graham crackers
 * 6 Tbsp butter
-* 3 Tbsp honey
+* 1/4 cup honey
 * 1/2 tsp cinnamon
 * 1/2 cup finely chopped almonds
 * dash of nutmeg

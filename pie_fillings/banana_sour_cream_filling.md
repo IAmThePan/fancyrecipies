@@ -5,11 +5,11 @@ I find this pie is best with a [Graham Cracker Crust](/pie_crusts/graham_cracker
 
 __Ingredients__
 
-* 12 oz softened cream cheese
+* 12 oz softened cream cheese (1/3rd fat OK)
 * 1/2 cups sour cream
 * 1/4 cups honey
 * 1 tsp vanilla extract
-* 1 large, ripe, mashed banana
+* 1 1/2 large, ripe, mashed banana
 * 2 Tbsp fresh lemon or lime juice
 
 __Directions__
