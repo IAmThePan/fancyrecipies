@@ -1,7 +1,7 @@
 Banana Sour Cream Pie Filling
 =============================
 
-I find this pie is best with a [Graham Cracker Crust](/pie_crusts/graham_cracker_crust.md).
+I find this pie is best with a [Graham Cracker Crust](../pie_crusts/graham_cracker_crust.md).
 
 __Ingredients__
 

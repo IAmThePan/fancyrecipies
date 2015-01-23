@@ -1,7 +1,7 @@
 Libby's Pumpkin Pie
 ===================
 
-I usually make this pie with the [Simple Oil Crust](/pie_crusts/simple_oil_crust.md).
+I usually make this pie with the [Simple Oil Crust](../pie_crusts/simple_oil_crust.md).
 
 __Ingredients__
 
